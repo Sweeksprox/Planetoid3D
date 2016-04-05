@@ -1,7 +1,9 @@
 using UnityEngine;
 using System.Collections;
 
-public class Portal : MonoBehaviour {
+public class Portal {
+	
 	public Transform partner;
 	public FauxGravityAttractor parent;
+
 }
